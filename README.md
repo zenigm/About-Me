@@ -31,6 +31,12 @@ I'm building my own **Java JVM**, working on an AI-driven game called **Project 
 
 ## 🛠️ Tech Stack
 
+| Language | Badge |
+|----------|--------|
+| ![Java](https://img.shields.io/badge/Java-SS%20Rank-orange?style=for-the-badge&logo=java&logoColor=white) | 🔥 Beignner |
+| ![C](https://img.shields.io/badge/C-S%20Rank-blue?style=for-the-badge&logo=c&logoColor=white) | 💪 Medium Level |
+| ![HTML](https://img.shields.io/badge/HTML-A%20Rank-e34c26?style=for-the-badge&logo=html5&logoColor=white) | 🛠️ Web Dev Basics |
+| ![Scratch](https://img.shields.io/badge/Scratch-B%20Rank-FFA500?style=for-the-badge&logo=scratch&logoColor=white) | 👶 Childhood Learner |
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
