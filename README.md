@@ -85,6 +85,10 @@ I'm building my own **Java JVM**, working on an AI-driven game called **Project 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F700DC&center=true&vCenter=true&width=450&lines=Hey+I'm+Sameer+(aka+Java+Bhai);I'm+a+coder%2C+gamer+%26+lover+of+chai;Currently+working+on+Project+Legacy)](https://git.io/typing-svg)
 
 ---
+## Watched👓?
+![Profile Views](https://komarev.com/ghpvc/?username=seedeku&color=blue&style=flat-square)
+
+---
 
 > “Don’t just exist. Code. Lift. Learn. Dream. Repeat.”
 
