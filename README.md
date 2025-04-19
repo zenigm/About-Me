@@ -43,9 +43,7 @@ I'm building my own **Java JVM**, working on an AI-driven game called **Project 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenigm&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zenigm&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenigm&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seedeku&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_border=false" alt="seedeku's GitHub Stats" />
 </p>
 
 ---
@@ -53,10 +51,27 @@ I'm building my own **Java JVM**, working on an AI-driven game called **Project 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zenigm&theme=onestar&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=seedeku&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
+
+## 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=seedeku&theme=tokyonight&hide_border=false&mode=weekly" />
+</p>
+
+---
+
+## 📍 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seedeku&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&exclude_repo=seedeku.github.io" />
+</p>
+
+---
+
 
 ## 🚀 Coding Platforms
 
