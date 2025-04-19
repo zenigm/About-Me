@@ -20,6 +20,9 @@ I love **coding**, **gaming**, **history**, **gym**, and dreaming big.
 - 🤝 I’m looking for help with [Project Legacy](https://github.com/zenigm/Project-Legacy)  
 - ⚡ Fun fact **I can talk to my code and yes they literally talk back**
 
+
+🌐 [Check out my GitHub Globe](https://zenigm.github.io/globe)
+
 ---
 
 ## 🌐 Connect With Me
