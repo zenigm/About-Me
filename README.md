@@ -8,6 +8,10 @@
 
 ## 🙋‍♂️ About Me
 
+<p align="center">
+  <img src="https://github.com/zenigm/zenigm/blob/main/ok.gif-ezgif.com-video-to-gif-converter.gif?raw=true" alt="banner" width="100%" />
+</p>
+
 
 Hey! I'm **Sameer**, also known as **seedeku** online.  
 Currently a **BCA student** at RKGIT, on a mission to become a **Java wizard**, an **indie game dev**, and one day... a legend in the tech world.  
