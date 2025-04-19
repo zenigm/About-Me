@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Sameer aka seedeku 0r zenigm</h1>
+<h1 align="center">Did You Knocked?</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=Oh+hi+there...;I+know+it's+a+pretty+boring+profile...;but+nice+to+see+you+here...!;So+bye.." alt="Typing SVG" />
 </p>
@@ -13,8 +13,8 @@
 </p>
 
 
-Hey! I'm **Sameer**, also known as **seedeku** online.  
-Currently a **BCA student** at RKGIT, on a mission to become a **Java wizard**, an **indie game dev**, and one day... a legend in the tech world.  
+Hey! I'm **Sameer**, also known as **seedeku/zenigm** online.  
+Currently a **student** , on a mission to become a **Java wizard**, an **indie game dev**, and one day... a legend in the tech world.  
 I love **coding**, **gaming**, **history**, **gym**, and dreaming big.  
 
 - 🤝 I’m looking for help with [Project Legacy](https://github.com/zenigm/Project-Legacy)  
