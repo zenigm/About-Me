@@ -78,19 +78,11 @@ I'm building my own **Java JVM**, working on an AI-driven game called **Project 
 - [ ] Grow this GitHub like crazy
 
 
-## 📊 GitHub Stats (Auto-Updating)
-
-![Zenigm's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenigm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenigm&layout=compact&theme=radical)
-
-
 ## 🧠 Fun Fact
 > I code like I breathe — natural and unstoppable 🌀
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F700DC&center=true&vCenter=true&width=450&lines=Hey+I'm+Sameer+(aka+Java+Bhai);I'm+a+coder%2C+gamer+%26+lover+of+chai;Currently+working+on+Project+Legacy)](https://git.io/typing-svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zenigm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
