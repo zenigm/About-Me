@@ -59,7 +59,19 @@ I love **coding**, **gaming**, **history**, **gym**, and dreaming big.
   <img src="https://github-profile-trophy.vercel.app/?username=zenigm&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
+
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenigm&theme=ayu-mirage&area=true)
+
+
 ---
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/zenigm/zenigm/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ## 🚀 Coding Platforms
 <p align="left">
@@ -73,6 +85,7 @@ I love **coding**, **gaming**, **history**, **gym**, and dreaming big.
 <a href="https://auth.geeksforgeeks.org/user/seedeku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="seedeku" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/zenigm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="zenigm" height="30" width="40" /></a>
 </p>
+
 
 ---
 
