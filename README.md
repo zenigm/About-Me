@@ -67,10 +67,6 @@ I love **coding**, **gaming**, **history**, **gym**, and dreaming big.
 
 ---
 
-## 🐍 GitHub Snake Contribution Animation
-
-![Snake animation](https://github.com/zenigm/zenigm/blob/output/github-contribution-grid-snake.svg)
-
 
 
 ## 🚀 Coding Platforms
