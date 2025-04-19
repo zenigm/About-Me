@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi there, I'm Sameer aka seedeku</h1>
+<h1 align="center">Hi there, I'm Sameer aka seedeku 0r zenigm</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=Oh+hi+there...;I+know+it's+a+pretty+boring+profile...;but+nice+to+see+you+here!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=Oh+hi+there...;I+know+it's+a+pretty+boring+profile...;but+nice+to+see+you+here...!;So+bye.." alt="Typing SVG" />
 </p>
 
 ---
@@ -13,8 +13,6 @@ Currently a **BCA student** at RKGIT, on a mission to become a **Java wizard**, 
 I love **coding**, **gaming**, **history**, **gym**, and dreaming big.  
 I'm building my own **Java JVM**, working on an AI-driven game called **Project Legacy**, and coding my future one project at a time.
 
-- **Languages:** Java, Scratch, C, HTML  
-- **Learning Path:** Java → Advanced Java → DSA → Full Stack Dev → Game Dev → AI & LLMs  
 - **Current Goal:** Get remote job in a top foreign company and create games that feel alive  
 - **Fun Fact:** I talk to code like it's alive (and sometimes it talks back)
 
@@ -24,7 +22,7 @@ I'm building my own **Java JVM**, working on an AI-driven game called **Project 
 
 | Platform | Handle |
 |---------|--------|
-| [LinkedIn](https://linkedin.com/in/zenign) | `zenign` |
+| [LinkedIn](https://linkedin.com/in/zenigm) | `zenigm` |
 | [Discord](https://discordapp.com/users/seedeku) | `seedeku` |
 | [Twitter (X)](https://twitter.com/seedeku) | `@seedeku` |
 
@@ -53,7 +51,7 @@ I'm building my own **Java JVM**, working on an AI-driven game called **Project 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seedeku&theme=onestar&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zenigm&theme=onestar&row=1&column=6" alt="trophies" />
 </p>
 
 ---
@@ -62,13 +60,13 @@ I'm building my own **Java JVM**, working on an AI-driven game called **Project 
 
 | Platform | Profile | Rating/Level |
 |----------|---------|--------------|
-| [Codeforces](https://codeforces.com/profile/seedeku) | `seedeku` | (insert rank if available) |
-| [GeeksForGeeks](https://auth.geeksforgeeks.org/user/seedeku) | `seedeku` | (insert rank/score if available) |
-| [HackerRank](https://www.hackerrank.com/seedeku) | `seedeku` | (insert badges/score) |
-| [AtCoder](https://atcoder.jp/users/seedeku) | `seedeku` | (insert rank) |
-| [CodeChef](https://www.codechef.com/users/seedeku) | `seedeku` | (insert rating/stars) |
-| [LeetCode](https://leetcode.com/seedeku) | `seedeku` | (insert problems solved + rank) |
-| [HackerEarth](https://www.hackerearth.com/@seedeku) | `seedeku` | (insert score/rank if available) |
+| [Codeforces](https://codeforces.com/profile/zenigm) | `zenigm` | (138+) |
+| [GeeksForGeeks](https://auth.geeksforgeeks.org/user/seedeku) | `seedeku` | (1 Question) |
+| [HackerRank](https://www.hackerrank.com/seedeku) | `seedeku` | (3⭐) |
+| [AtCoder](https://atcoder.jp/users/zenigm) | `zenigm` | (0) |
+| [CodeChef](https://www.codechef.com/users/seedeku) | `seedeku` | (7 Question) |
+| [LeetCode](https://leetcode.com/zenigm) | `zenigm` | (0 + 5000000 rank) |
+| [HackerEarth](https://www.hackerearth.com/@zenigm) | `zenigm` | (0) |
 
 ## ✨ Future Goals
 
