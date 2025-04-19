@@ -19,6 +19,5 @@ Let's connect: [LinkedIn](https://linkedin.com/zenigm) | [Twitter](https://twitt
 
 ### Languages & Tools
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?&logo=spring&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code&logoColor=white)
 
