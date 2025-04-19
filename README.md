@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=Oh+hi+there...;I+know+it's+a+pretty+boring+profile...;but+nice+to+see+you+here...!;So+bye.." alt="Typing SVG" />
 </p>
 
+<img align="right" alt="coding" width="500" src="https://images.app.goo.gl/TZo2ybyQTiYHkqAo6">
+
 ---
 
 ## 🙋‍♂️ About Me
