@@ -8,8 +8,6 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="up" alt="coding" width="500" src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif">
-
 
 Hey! I'm **Sameer**, also known as **seedeku** online.  
 Currently a **BCA student** at RKGIT, on a mission to become a **Java wizard**, an **indie game dev**, and one day... a legend in the tech world.  
