@@ -4,11 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=Oh+hi+there...;I+know+it's+a+pretty+boring+profile...;but+nice+to+see+you+here...!;So+bye.." alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="500" src="https://images.app.goo.gl/TZo2ybyQTiYHkqAo6">
-
 ---
 
 ## 🙋‍♂️ About Me
+
+<img align="up" alt="coding" width="500" src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif">
+
 
 Hey! I'm **Sameer**, also known as **seedeku** online.  
 Currently a **BCA student** at RKGIT, on a mission to become a **Java wizard**, an **indie game dev**, and one day... a legend in the tech world.  
